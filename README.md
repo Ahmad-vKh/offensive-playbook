@@ -1,5 +1,5 @@
 # offensive-playbook
-practical collection of offensive security techniques, attack chains, and documentation
+practical collection of offensive security techniques, attack chains, tools and documentation
 
 #  Ahmad Khawaja
 
