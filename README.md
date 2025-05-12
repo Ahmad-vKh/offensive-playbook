@@ -11,7 +11,6 @@ practical collection of offensive security techniques, attack chains, and docume
 
 - Execute structured offensive security workflows with a focus on real-world exploitation and post-exploitation scenarios  
 - Develop repeatable attack chains by analyzing misconfigurations, trust relationships, and vulnerability interplay  
-- Continuously train against hardened environments to sharpen adversarial thinking and bypass defensive controls  
 - Maintain detailed technical documentation to reinforce understanding, pattern recognition, and operational efficiency
 
 ### 📚 Current Focus
