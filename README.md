@@ -7,19 +7,19 @@ practical collection of offensive security techniques, attack chains, tools and 
 
 ---
 
-### 🛠️ What I Do
+###  What I Do
 
 - Execute structured offensive security workflows with a focus on real-world exploitation and post-exploitation scenarios  
 - Develop repeatable attack chains by analyzing misconfigurations, trust relationships, and vulnerability interplay  
 - Maintain detailed technical documentation to reinforce understanding, pattern recognition, and operational efficiency
 
-### 📚 Current Focus
+###  Current Focus
 
 - Completing the [HTB Penetration Tester Job Role Path](https://academy.hackthebox.com/path/preview/penetration-tester) (75% done)  
 - Deepening expertise in Active Directory exploitation, network tunneling, and lateral movement
 - Maintaining structured documentation in Obsidian to track techniques, build exploitation patterns, and reinforce attacker logic
 
-### 🧠 Core Skills
+###  Core Skills
 
 - **Reconnaissance & Enumeration:**  
   Nmap scanning, service fingerprinting, internal pivoting, and port forwarding
@@ -40,7 +40,7 @@ practical collection of offensive security techniques, attack chains, tools and 
   Logic-driven exploitation, structured documentation, and a focus on repeatable, high-impact techniques
 
 
-### 🤝 Let's Connect
+###  Socials
 
 - [LinkedIn](linkedin.com/in/ahmad-khawaja-30779b277)  
 
