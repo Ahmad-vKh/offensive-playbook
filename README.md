@@ -10,7 +10,7 @@
 
 - Execute high-impact, real-world offensive security operations — from initial access to full domain compromise  
 - Engineer **repeatable attack chains** through deep analysis of misconfigs, trust abuse, and multi-layer vulnerabilities  
-- Build and maintain a battle-tested **Obsidian-based knowledge base** for ops-ready tactics and methodologies
+- Keep a sharp, structured knowledge base in Obsidian — every technique logged, every pattern tracked, nothing forgotten
 
 ---
 
