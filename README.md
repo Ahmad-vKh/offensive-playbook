@@ -1,12 +1,12 @@
 # 🛡️ Offensive Security Playbook  
-**Real-World Attack Chains | Tools | Techniques | Tactics**
+**Attack Chains | Tools | Techniques | Tactics**
 
 ## Ahmad Khawaja  
-**Offensive Security Engineer | Red Team Practitioner | Builder of Breakpoints**
+** Network and Information Security Engineer **
 
 ---
 
-### 🔥 What I Do
+### What I Do
 
 - Execute high-impact, real-world offensive security operations — from initial access to full domain compromise  
 - Engineer **repeatable attack chains** through deep analysis of misconfigs, trust abuse, and multi-layer vulnerabilities  
@@ -14,7 +14,7 @@
 
 ---
 
-### 🎯 Current Mission
+### Current Mission
 
 - 75% through [HTB Penetration Tester Job Role Path](https://academy.hackthebox.com/path/preview/penetration-tester) — aiming for **mastery over completion**  
 - Deep focus on **Active Directory exploitation**: from enumeration to privilege escalation  
@@ -22,7 +22,7 @@
 
 ---
 
-### 🧰 Core Arsenal
+### Core Arsenal
 
 #### 🔎 Recon & Initial Access  
 - Nmap scanning, service fingerprinting  
