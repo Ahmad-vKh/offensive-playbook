@@ -39,12 +39,6 @@
 - ACL/GPO abuse, unconstrained delegation  
 - Lateral movement and persistence across Windows domains  
 
----
-
-### 🧠 My Mindset
-
-> _"I don’t chase badges—I chase mastery."_  
-> Logic over luck. Exploits with structure. Techniques that scale.
 
 ---
 
