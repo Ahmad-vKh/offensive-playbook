@@ -17,8 +17,8 @@
 ### Current Mission
 
 - 75% through [HTB Penetration Tester Job Role Path](https://academy.hackthebox.com/path/preview/penetration-tester) — aiming for **mastery over completion**  
-- Deep focus on **Active Directory exploitation**: from enumeration to privilege escalation  
-- Reinforcing every step with structured documentation to turn learning into operational firepower
+- Deep focus on **Active Directory exploitation**
+- Reinforcing every step with structured documentation to turn learning into operational workflow
 
 ---
 
