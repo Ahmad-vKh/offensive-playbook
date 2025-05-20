@@ -33,7 +33,7 @@
 - Auth bypass, session management flaws, SSRF  
 - Proxy analysis and traffic manipulation  
 
-#### 🧬 Active Directory Kill-Chain  
+#### 🧬 [Active Directory Exploit](https://github.com/Ahmad-vKh/offensive-playbook/tree/main/AD%20Enumeration%20%26%20Attacks)
 - LDAP/SMB/Kerberos enumeration  
 - Kerberoasting, AS-REP Roasting, password spraying  
 - ACL/GPO abuse, unconstrained delegation  
