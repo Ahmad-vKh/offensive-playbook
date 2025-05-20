@@ -25,10 +25,10 @@
 ### Core Arsenal
 
 #### 🔎 Recon & Initial Access  
-- Nmap scanning, service fingerprinting  
-- Pivoting, port forwarding, and SOCKS tunneling  
+- Nmap scanning, [service fingerprinting](https://github.com/Ahmad-vKh/offensive-playbook/tree/main/Footprinting)  
+- [Pivoting, port forwarding, and SOCKS tunneling](https://github.com/Ahmad-vKh/offensive-playbook/tree/main/Pivoting%2C%20Tunneling%2C%20and%20Port%20Forwarding)  
 
-#### 🕷️ Web Application Exploitation  
+#### 🕷️ [Web Application Exploitation](https://github.com/Ahmad-vKh/offensive-playbook/tree/main/web-exploitation)  
 - SQL Injection, XSS, File Upload/Inclusion  
 - Auth bypass, session management flaws, SSRF  
 - Proxy analysis and traffic manipulation  
