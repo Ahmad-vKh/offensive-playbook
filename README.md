@@ -37,7 +37,7 @@
 - XSS  
 - File Upload/Inclusion  
 
-#### 🧬 [Active Directory Exploit](https://github.com/Ahmad-vKh/offensive-playbook/tree/main/AD%20Enumeration%20%26%20Attacks)
+#### 🧬 [Active Directory Exploit](https://github.com/Ahmad-vKh/offensive-playbook/tree/main/AD%20Enumeration%20%26%20Attacks)&[Password Attacks](https://github.com/Ahmad-vKh/offensive-playbook/tree/main/Password%20Attacks)
 - LDAP/SMB/Kerberos enumeration  
 - Kerberoasting, AS-REP Roasting, password spraying  
 - ACL/GPO abuse, unconstrained delegation  
