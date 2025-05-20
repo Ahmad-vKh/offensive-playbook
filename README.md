@@ -2,7 +2,7 @@
 **Attack Chains | Tools | Techniques | Tactics**
 
 ## Ahmad Khawaja  
-** Network and Information Security Engineer **
+**Network and Information Security Engineer**
 
 ---
 
