@@ -6,14 +6,6 @@
 
 ---
 
-### What I Do
-
-- Execute high-impact, real-world offensive security operations — from initial access to full domain compromise  
-- Engineer **repeatable attack chains** through deep analysis of misconfigs, trust abuse, and multi-layer vulnerabilities  
-- Keep a sharp, structured knowledge base in Obsidian — every technique logged, every pattern tracked, nothing forgotten
-
----
-
 ### Current Mission
 
 - 75% through [HTB Penetration Tester Job Role Path](https://academy.hackthebox.com/path/preview/penetration-tester) — aiming for **mastery over completion**  
