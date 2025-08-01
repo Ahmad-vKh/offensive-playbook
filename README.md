@@ -4,13 +4,6 @@
 ## Ahmad Khawaja  
 **Network and Information Security Engineer**
 
-
-- 75% through [HTB Penetration Tester Job Role Path](https://academy.hackthebox.com/path/preview/penetration-tester) 
-- Deep focus on **Active Directory exploitation**
-- Reinforcing every step with structured documentation to turn learning into operational workflow
-
----
-
 ### NOTES
 
 #### HTB-MACHINES
